@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Practical</string>
+    <string name="search">Search...</string>
+    <string name="searchString">Search Here</string>
+    <string name="action_settings">test</string>
+    <string name="total_video">Total User Selected Video : %s</string>
+    <string name="no_match">No match found</string>
+</resources>
